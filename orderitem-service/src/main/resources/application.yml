@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: orderitem-service
+
+server:
+  port: 8089
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:8761/eureka

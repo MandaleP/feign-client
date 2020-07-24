@@ -1,0 +1,4 @@
+com/feignclient/commons/Order.class
+com/feignclient/commons/OrderItem.class
+com/feignclient/commons/repository/OrderItemRepository.class
+com/feignclient/commons/repository/OrderRepository.class
